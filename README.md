@@ -9,13 +9,12 @@
 
 1) Make sure you have Python 3 installed.
 2) Install required packages:
+3) Run the Python file:
+
 
  ```python  
 pip install matplotlib
 
-3) Run the Python file:
-
-```python
 python 12_coin_problem.py
 
 
