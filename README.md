@@ -9,17 +9,17 @@
 
 1) Make sure you have Python 3 installed.
 2) Install required packages:
+
  ```python  
 pip install matplotlib
 
 3) Run the Python file:
+
 ```python
 python 12_coin_problem.py
 
 
-
-
-# 12 Coins Problem – Recursive AI Solution (Animated in Python)
+# 12 Coin Problem – Recursive AI Solution (Animated in Python)
 
 ```python
 import matplotlib.pyplot as plt
