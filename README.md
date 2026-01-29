@@ -1,5 +1,6 @@
 # 12 Coins Problem – Recursive AI Solution (Animated in Python)
 
+```python
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from time import sleep
